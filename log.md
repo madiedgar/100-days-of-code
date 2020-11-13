@@ -10,11 +10,12 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 
 ### Day 1: November 11, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: One of the things I'm learning for Legesher is API development so that the translations can be available throughout the project. I started the [API's and Microservices Certification](https://www.freecodecamp.org/learn) curriculum to improve upon the API's development.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**#MinuteWithMadi**:
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [API's & Microservices - Managing Packages with NPM](https://github.com/madiedgar/api-and-microservices-certification)
+
+**Special Shoutout** to [@apharrison964](https://github.com/apharrison964) for starting this with me. 🎉 you're the best.
