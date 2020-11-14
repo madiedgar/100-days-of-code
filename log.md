@@ -12,8 +12,6 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 
 **Today's Progress**: One of the things I'm learning for Legesher is API development so that the translations can be available throughout the project. I started the [API's and Microservices Certification](https://www.freecodecamp.org/learn) curriculum to improve upon the API's development.
 
-**#MinuteWithMadi**:
-
 **Link(s) to work**
 
 1. [API's & Microservices - Managing Packages with NPM](https://github.com/madiedgar/api-and-microservices-certification)
