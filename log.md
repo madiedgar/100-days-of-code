@@ -25,3 +25,11 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 **Link(s) to work**
 
 1. [API's & Microservices - Basic Node and Express](https://github.com/madiedgar/api-and-microservices-certification)
+
+### Day 3: November 13, Friday
+
+**Today's Progress**: Again, I've continued the [API's and Microservices Certification](https://www.freecodecamp.org/learn) curriculum from FreeCodeCamp to improve upon the API's development. Today's focus was on database management with mongodb and mongoose. I haven't messed with Mongodb since in college, so it's been a while
+
+**Link(s) to work**
+
+1. [API's & Microservices - Basic Node and Express](https://github.com/madiedgar/api-and-microservices-certification)
