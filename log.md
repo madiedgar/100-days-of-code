@@ -37,6 +37,14 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 
 ### Day 4: November 14, Saturday
 
+**Today's Progress**: Yet again, I've continued the [API's and Microservices Certification](https://www.freecodecamp.org/learn) curriculum from FreeCodeCamp to improve upon the API's development. Today I worked on the mongodb and mongoose module.
+
+**Link(s) to work**
+
+1. [API's & Microservices - Mongodb & Mongoose](https://github.com/madiedgar/api-and-microservices-certification)
+
+### Day 5: November 15, Sunday
+
 **Today's Progress**: Yet again, I've continued the [API's and Microservices Certification](https://www.freecodecamp.org/learn) curriculum from FreeCodeCamp to improve upon the API's development. Today I completed the mongodb and mongoose module.
 
 **Link(s) to work**
