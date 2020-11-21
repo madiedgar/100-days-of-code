@@ -66,3 +66,27 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 **Link(s) to work**
 
 1.
+
+### Day 8: November 18, Wednesday
+
+**Today's Progress**:
+
+**Link(s) to work**
+
+1.
+
+### Day 9: November 19, Thursday
+
+**Today's Progress**:
+
+**Link(s) to work**
+
+1.
+
+### Day 10: November 20, Friday
+
+**Today's Progress**:
+
+**Link(s) to work**
+
+1.
