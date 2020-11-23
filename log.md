@@ -61,11 +61,11 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 
 ### Day 7: November 17, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: Started taking what I learned from FreeCodeCamp's API & Microservices curriculum and applying it to Legesher's API. Played around with hapi.js and knex.js.
 
 **Link(s) to work**
 
-1.
+1. [Legesher Repository](https://github.com/legesher/legesher)
 
 ### Day 8: November 18, Wednesday
 
