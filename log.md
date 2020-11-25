@@ -69,32 +69,58 @@ My hopes for the next 100 days are to release the first version of Legesher and 
 
 ### Day 8: November 18, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Though I’m trying to spend most of these days coding, product management and code reviews are skills that I’d like to build upon. 🔍
+
+Today, I reviewed several PR’s for Legesher’s `Legesher-translation` repository. 💻
 
 **Link(s) to work**
 
-1.
+1. [Legesher Translations Repository](https://github.com/legesher/legesher-translations)
 
 ### Day 9: November 19, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Began the process of syncing the recent changes of the `tree-sitter-python` repo with Legesher’s `tree-sitter-legesher-python` repository to see what changes overlap.
+
+Thanks to an amazing contributor, an issue is created with latest changes from the original repo for me to review.
 
 **Link(s) to work**
 
-1.
+1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
 
 ### Day 10: November 20, Friday
 
-**Today's Progress**:
-
-**Link(s) to work**
-
-1.
+**Today's Progress**: Was not expecting to spend so much time reconfiguring the command line after the Mac OS Big Sur update. Ended up having to reinstall Command Line Tools in order to make progress on anything.
 
 ### Day 11: November 21, Saturday
 
-**Today's Progress**:
+**Today's Progress**: Continued the sync for Tree-Sitter-Legesher-Python with Tree-Sitter's `tree-sitter-python` repository. This takes account a lot of testing and precision to make sure the changes made in the original repository actually apply for Legesher's repository.
 
 **Link(s) to work**
 
-1.
+1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
+
+### Day 12: November 22, Sunday
+
+**Today's Progress**: Completed the sync for Tree-Sitter-Legesher-Python with Tree-Sitter's `tree-sitter-python` repository. New tests were added to the CI, so had to execute an elaborate regex to restructure the data for the known_failures.txt file.
+
+**Link(s) to work**
+
+1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
+
+### Day 13: November 23, Monday
+
+**Today's Progress**: Published new version of `tree-sitter-legesher-python` on npm. (0.15.4).
+
+**Link(s) to work**
+
+1. [New Version Update on npm](https://t.co/RrpOroQQNT?amp=1)
+
+### Day 14: November 24, Tuesday
+
+**Today's Progress**: Began and completed the sync of changes from Atom's `language-python` repository for the Atom editor on `language-legesher-python`. Upgraded the `tree-sitter-legesher-python` version for the repository as well, so both are the most up to date.
+
+**Link(s) to work**
+
+1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
+2. [Language-Legesher-Python Repository](https://github.com/legesher/language-legesher-python)
+3. [Language-Legesher-Python Atom Package](https://atom.io/packages/language-legesher-python)
