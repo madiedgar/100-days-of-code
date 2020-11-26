@@ -124,3 +124,11 @@ Thanks to an amazing contributor, an issue is created with latest changes from t
 1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
 2. [Language-Legesher-Python Repository](https://github.com/legesher/language-legesher-python)
 3. [Language-Legesher-Python Atom Package](https://atom.io/packages/language-legesher-python)
+
+### Day 15: November 25, Wednesday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
