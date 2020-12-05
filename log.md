@@ -132,3 +132,83 @@ Thanks to an amazing contributor, an issue is created with latest changes from t
 **Link(s) to work**
 
 1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 16: November 26, Thursday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 17: November 27, Friday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 18: November 28, Saturday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 19: November 29, Sunday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 20: November 30, Monday
+
+**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/legesher/legesher)
+
+### Day 21: December 1, Tuesday
+
+**Today's Progress**: Advent of Code in Python: Day 1. It was weird getting back into creating basic python functions to solve these puzzles, but fun to experiment and get back into the swing of little interview-like questions.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 22: December 2, Wednesday
+
+**Today's Progress**: Advent of Code in Python. Reworked day one in Python and tested out multiple ways to produce the answer.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 23: December 3, Thursday
+
+**Today's Progress**: Advent of Code in Python. Played more with manipulating the files and input, not necessarily what was expected in the assignment, but fun all the same.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 24: December 4, Friday
+
+**Today's Progress**: Advent of Code in Python. Built out more of the function for the past couple of days. Definitely appreciating this little refresher.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 25: December 5, Saturday
+
+**Today's Progress**:
+
+**Link(s) to work**
+
+1.
