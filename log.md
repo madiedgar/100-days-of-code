@@ -135,31 +135,28 @@ Thanks to an amazing contributor, an issue is created with latest changes from t
 
 ### Day 16: November 26, Thursday
 
-**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+**Today's Progress**: Worked with `legesher-translation`'s translation capability to map out what it needed and expected for translating tree-sitter-legesher-python and language-legesher-python packages.
 
 **Link(s) to work**
 
-1. [Legesher Repository](https://github.com/legesher/legesher)
+1. [Tree-Sitter-Legesher-Python Repository](https://github.com/legesher/tree-sitter-legesher-python)
+2. [Language-Legesher-Python Repository](https://github.com/legesher/language-legesher-python)
 
 ### Day 17: November 27, Friday
 
-**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
-
-**Link(s) to work**
-
-1. [Legesher Repository](https://github.com/legesher/legesher)
+**Today's Progress**: Played around with organizing my repositories with regex functions. Lots of reformatting and updated links found with very intricate regex.
 
 ### Day 18: November 28, Saturday
 
-**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+**Today's Progress**: Update documentation on all Legesher repositories to redirect to official documentation on docs.legesher.io.
 
 **Link(s) to work**
 
-1. [Legesher Repository](https://github.com/legesher/legesher)
+1. [Legesher Documenation Site](https://docs.legesher.io)
 
 ### Day 19: November 29, Sunday
 
-**Today's Progress**: Dug a little deeper into API's today and how it might be integrated into Legesher's repository.
+**Today's Progress**: Explored Knex.js some more today. Still trying to learn more about API's and how it might be integrated into Legesher's repository.
 
 **Link(s) to work**
 
@@ -206,6 +203,85 @@ Thanks to an amazing contributor, an issue is created with latest changes from t
 1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
 
 ### Day 25: December 5, Saturday
+
+**Today's Progress**: more #AdventofCode in #Python! Learning a lot about parsing files and it takes me back to my old #datascience days.
+
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 26: December 6, Sunday
+
+**Today's Progress**: Really loving #AdventOfCode in #Python. Even though it's a silly little exercise, I'm realizing I really love #cleancode...
+**Link(s) to work**
+
+1. [Legesher Repository](https://github.com/madiedar/advent-of-code)
+
+### Day 27: December 7, Monday
+
+**Today's Progress**: Update contributor list for Hacktoberfest for all of the repositories while honoring @all-contributors guidelines.
+
+**Link(s) to work**
+
+1.
+
+### Day 28: December 8, Tuesday
+
+**Today's Progress**: After many days of research, we began tinkering with creating the API for Legesher. But started by planning out every essential detail that is needed like the #productmanager I am.
+
+**Link(s) to work**
+
+1.
+
+### Day 29: December 9, Wednesday
+
+**Today's Progress**: Worked on the Legesher API by working on the most core repository (`tree-sitter-legesher-python`) and determining which files need to be translated and with which intricate rules.
+
+**Link(s) to work**
+
+1.
+
+### Day 30: December 10, Thursday
+
+**Today's Progress**: To continue working on the Legesher API, I started building out the API by mapping out what each element will take in, do to the data, and return. Feeling like a super #productmanager.
+
+**Link(s) to work**
+
+1.
+
+### Day 31: December 11, Friday
+
+**Today's Progress**: Started working on the translation functions of Legesher. Its not as pretty and neat as I would like it to be, but that's what a rough draft is for right?
+
+**Link(s) to work**
+
+1.
+
+### Day 32: December 12, Saturday
+
+**Today's Progress**: @dependabot is a lifesaver. Went through and made sure the new security update works with all of the @legesherio repositories.
+
+**Link(s) to work**
+
+1.
+
+### Day 33: December 13, Sunday
+
+**Today's Progress**: Reworked Legesher translation functions using underscore.js.
+
+**Link(s) to work**
+
+1.
+
+### Day 34: December 14, Monday
+
+**Today's Progress**:
+
+**Link(s) to work**
+
+1.
+
+### Day 35: December 15, Tuesday
 
 **Today's Progress**:
 
